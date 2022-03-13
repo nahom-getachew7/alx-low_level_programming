@@ -21,7 +21,7 @@ while (f < 10)
 		d = 0;
 		while (d < 10)
 		{
-			c = 2;
+			c = 1;
 			while (c < 10)
 			{
 				if (!(f == c && e == d))
